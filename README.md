@@ -1,5 +1,6 @@
 # Landing page of insurance agency
 
+!["Landing page image"](https://github.com/Skwieru/WordPress-Landing-Page/blob/main/landingpageImage.png?raw=true)
 
 ## Technologies: WordPress 
 
